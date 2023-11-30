@@ -1,4 +1,1 @@
- 
-
-
-Originally Forked From [https://riknoll.github.io/arcade-split-screen/](https://riknoll.github.io/arcade-split-screen/)
+Originally Forked From https://github.com/riknoll/arcade-split-screen
