@@ -16,7 +16,6 @@ namespace CodeNinjasAbbotsford {
         Camera4
     }
 
-
     export enum CameraRegion {
         //% block="left half"
         VerticalLeftHalf,
